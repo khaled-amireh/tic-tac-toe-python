@@ -31,3 +31,11 @@ A simple console-based Tic Tac Toe game built with Python.
 4 | 5 | 6
 ---------
 7 | 8 | 9
+
+## Project Structure
+
+```text
+tic-tac-toe-python/
+│
+├── tic_tac_toe.py
+└── README.md
